@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_tabbar_button_news_home.png",
-        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_tabbar_button_news_home.png"
-    },
-    {
         "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
         "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_tabbar_button_news_home.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_tabbar_button_news_home.png"
     },
     {
         "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_categorybar_right_arrow.png",
