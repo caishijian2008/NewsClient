@@ -72,9 +72,10 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="5.0dip"
-                android:textColor="#ff000000" 
-                wwj:image_width="200dip"
-                wwj:image_height="52dip"/>
+                android:textColor="#ff000000"
+                android:orientation="vertical"
+                wwj:image_width="200dp"
+                wwj:image_height="200dp"/>
 
         </LinearLayout>
         

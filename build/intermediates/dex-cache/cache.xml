@@ -9,6 +9,13 @@
         <dex dex="/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/pre-dexed/debug/volley-1.0.19_efc80da5d0aabb97585df8207bdca6f0477e8a90.jar" />
     </item>
     <item
+        jar="/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_dbdc19269f29a226d142d21fa5e529c8e5176eb3.jar" />
+    </item>
+    <item
         jar="/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
         jumboMode="false"
         revision="23.0.3"
@@ -35,13 +42,6 @@
         revision="23.0.3"
         sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
         <dex dex="/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_d65af5e210fdb91a7ac17a79805258863bb43305.jar" />
-    </item>
-    <item
-        jar="/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
-        <dex dex="/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_dbdc19269f29a226d142d21fa5e529c8e5176eb3.jar" />
     </item>
 
 </items>

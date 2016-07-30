@@ -55,10 +55,10 @@ public class CustomTextView2 extends LinearLayout {
             Log.i(TAG, "bd-->"+bd);
             Log.i(TAG, "bd2-->"+bd2);
             //获取自定义属性属性
+            final ImageView imageView = new ImageView(mContext);
             if (imgsrc != null || imgsrc != "") {
                 int imagewidth = mTypedArray.getDimensionPixelOffset(R.styleable.customTextView_image_width, 100);
                 int imageheight = mTypedArray.getDimensionPixelOffset(R.styleable.customTextView_image_height, 100);
-                final ImageView imageView = new ImageView(mContext);
                 params = new LayoutParams(imagewidth, imageheight);
                 params.gravity = Gravity.CENTER_HORIZONTAL;    //居中
                 imageView.setLayoutParams(params);
@@ -72,7 +72,7 @@ public class CustomTextView2 extends LinearLayout {
                 }, 0, 0, ImageView.ScaleType.CENTER_INSIDE, Bitmap.Config.RGB_565, new Response.ErrorListener() {
                     @Override
                     public void onErrorResponse(VolleyError volleyError) {
-                        imageView.setImageResource(0);
+                        imageView.setImageResource(R.drawable.ic_launcher);
                     }
                 });
                 request.setTag("imgResource");
@@ -80,19 +80,21 @@ public class CustomTextView2 extends LinearLayout {
                 //将imageView添加到LinearLayout当中
                 addView(imageView);
             } else {
-                float textSize = mTypedArray.getDimension(R.styleable.customTextView_textSize, 16);
-                int textColor = mTypedArray.getColor(R.styleable.customTextView_textColor, 0xFF000000);
-
-                TextView textView = new TextView(mContext);
-                textView.setLayoutParams(new LayoutParams(LayoutParams.WRAP_CONTENT, LayoutParams.MATCH_PARENT));
-                Log.i(TAG, "setText: "+Html.fromHtml((String) hashMap.get("body")));
-                textView.setText(Html.fromHtml((String) hashMap.get("body")));
-    //            textView.setText("hahahhahhahhahaahhaahah");
-                textView.setTextSize(textSize);		//设置字体大小
-                textView.setTextColor(textColor);	//设置字体颜色
-                //把TextView添加到自定义LinearLayout中
-                addView(textView);
+                imageView.setImageResource(R.drawable.ic_launcher);
+                addView(imageView);
             }
+            float textSize = mTypedArray.getDimension(R.styleable.customTextView_textSize, 16);
+            int textColor = mTypedArray.getColor(R.styleable.customTextView_textColor, 0xFF000000);
+
+            TextView textView = new TextView(mContext);
+            textView.setLayoutParams(new LayoutParams(LayoutParams.WRAP_CONTENT, LayoutParams.MATCH_PARENT));
+            Log.i(TAG, "setText: "+Html.fromHtml((String) hashMap.get("body")));
+            textView.setText(Html.fromHtml((String) hashMap.get("body")));
+//            textView.setText("hahahhahhahhahaahhaahah");
+            textView.setTextSize(textSize);		//设置字体大小
+            textView.setTextColor(textColor);	//设置字体颜色
+            //把TextView添加到自定义LinearLayout中
+            addView(textView);
         }
     }
 }
