@@ -1,0 +1,263 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea/
+* .idea/.name
+* .idea/compiler.xml
+* .idea/copyright/
+* .idea/copyright/profiles_settings.xml
+* .idea/encodings.xml
+* .idea/misc.xml
+* .idea/workspace.xml
+* app/
+* app/build.gradle
+* app/libs/
+* app/libs/Baidu_MobAds_SDK_3.0.jar
+* app/lint.xml
+* app/src/
+* app/src/main/
+* app/src/main/AndroidManifest.xml
+* app/src/main/java/
+* app/src/main/java/com/
+* app/src/main/java/com/xiaowu/
+* app/src/main/java/com/xiaowu/news/
+* app/src/main/java/com/xiaowu/news/AddSubscriptionActivity.java
+* app/src/main/java/com/xiaowu/news/CommentsActivity.java
+* app/src/main/java/com/xiaowu/news/ConstomTextView.java
+* app/src/main/java/com/xiaowu/news/FinancialActivity.java
+* app/src/main/java/com/xiaowu/news/HotNewsActivity.java
+* app/src/main/java/com/xiaowu/news/MainActivity.java
+* app/src/main/java/com/xiaowu/news/NewsDetailActivity.java
+* app/src/main/java/com/xiaowu/news/SearchNewsActiity.java
+* app/src/main/java/com/xiaowu/news/SubscribeActivity.java
+* app/src/main/java/com/xiaowu/news/TabHostActivity.java
+* app/src/main/java/com/xiaowu/news/custom/
+* app/src/main/java/com/xiaowu/news/custom/ConstomSimpleAdapter.java
+* app/src/main/java/com/xiaowu/news/model/
+* app/src/main/java/com/xiaowu/news/model/Category.java
+* app/src/main/java/com/xiaowu/news/model/FinancialCagory.java
+* app/src/main/java/com/xiaowu/news/model/HotNewsCategory.java
+* app/src/main/java/com/xiaowu/news/model/Parameter.java
+* app/src/main/java/com/xiaowu/news/service/
+* app/src/main/java/com/xiaowu/news/service/SyncHttp.java
+* app/src/main/java/com/xiaowu/news/thread/
+* app/src/main/java/com/xiaowu/news/thread/PostCommentsThread.java
+* app/src/main/java/com/xiaowu/news/update/
+* app/src/main/java/com/xiaowu/news/update/ParseXmlService.java
+* app/src/main/java/com/xiaowu/news/update/UpdateManager.java
+* app/src/main/java/com/xiaowu/news/util/
+* app/src/main/java/com/xiaowu/news/util/DensityUtil.java
+* app/src/main/java/com/xiaowu/news/util/StringUtil.java
+* app/src/main/res/
+* app/src/main/res/anim/
+* app/src/main/res/anim/push_left_in.xml
+* app/src/main/res/anim/push_left_out.xml
+* app/src/main/res/anim/push_right_in.xml
+* app/src/main/res/anim/push_right_out.xml
+* app/src/main/res/color/
+* app/src/main/res/color/category_item_title_selector.xml
+* app/src/main/res/color/financial_list_item_title_selector.xml
+* app/src/main/res/color/newslist_item_digest_selector.xml
+* app/src/main/res/color/newslist_item_ptime_selector.xml
+* app/src/main/res/color/newslist_item_source_selector.xml
+* app/src/main/res/color/newslist_item_title_selector.xml
+* app/src/main/res/color/newslist_loadmore_btn_selector.xml
+* app/src/main/res/color/sublist_item_title_selector.xml
+* app/src/main/res/drawable-hdpi/
+* app/src/main/res/drawable-hdpi/ic_action_search.png
+* app/src/main/res/drawable-hdpi/ic_launcher.png
+* app/src/main/res/drawable-ldpi/
+* app/src/main/res/drawable-ldpi/ic_launcher.png
+* app/src/main/res/drawable-mdpi/
+* app/src/main/res/drawable-mdpi/button_normal.9.png
+* app/src/main/res/drawable-mdpi/button_pressed.9.png
+* app/src/main/res/drawable-mdpi/ic_action_search.png
+* app/src/main/res/drawable-mdpi/ic_constom.jpg
+* app/src/main/res/drawable-mdpi/ic_launcher.png
+* app/src/main/res/drawable-mdpi/image_button_function.9.png
+* app/src/main/res/drawable-mdpi/image_button_function_down.9.png
+* app/src/main/res/drawable-mdpi/image_button_function_selected.9.png
+* app/src/main/res/drawable-mdpi/image_button_operate.png
+* app/src/main/res/drawable-mdpi/image_button_operate_disabled.png
+* app/src/main/res/drawable-mdpi/image_button_operate_selected.png
+* app/src/main/res/drawable-mdpi/image_button_operate_small.png
+* app/src/main/res/drawable-mdpi/image_button_operate_small_selected.png
+* app/src/main/res/drawable-mdpi/image_categorybar_background.png
+* app/src/main/res/drawable-mdpi/image_categorybar_item_selected_background.9.png
+* app/src/main/res/drawable-mdpi/image_categorybar_right_arrow.png
+* app/src/main/res/drawable-mdpi/image_financial_index_table_title_background.png
+* app/src/main/res/drawable-mdpi/image_list_icon_collapse.png
+* app/src/main/res/drawable-mdpi/image_list_icon_expand.png
+* app/src/main/res/drawable-mdpi/image_list_open_item.png
+* app/src/main/res/drawable-mdpi/image_list_open_item_selected.png
+* app/src/main/res/drawable-mdpi/image_list_selected_background.9.png
+* app/src/main/res/drawable-mdpi/image_list_separator_line.png
+* app/src/main/res/drawable-mdpi/image_prompt_smiley.png
+* app/src/main/res/drawable-mdpi/image_search_search_button.png
+* app/src/main/res/drawable-mdpi/image_search_search_button_selected.png
+* app/src/main/res/drawable-mdpi/image_search_searchbox.png
+* app/src/main/res/drawable-mdpi/image_subscription_welcome_background.png
+* app/src/main/res/drawable-mdpi/image_tabbar_background.png
+* app/src/main/res/drawable-mdpi/image_tabbar_button_financial_index.png
+* app/src/main/res/drawable-mdpi/image_tabbar_button_financial_index_down.png
+* app/src/main/res/drawable-mdpi/image_tabbar_button_financial_index_selected.png
+* app/src/main/res/drawable-mdpi/image_tabbar_button_hot_news.png
+* app/src/main/res/drawable-mdpi/image_tabbar_button_hot_news_down.png
+* app/src/main/res/drawable-mdpi/image_tabbar_button_hot_news_selected.png
+* app/src/main/res/drawable-mdpi/image_tabbar_button_news_home.png
+* app/src/main/res/drawable-mdpi/image_tabbar_button_news_home_down.png
+* app/src/main/res/drawable-mdpi/image_tabbar_button_news_home_selected.png
+* app/src/main/res/drawable-mdpi/image_tabbar_button_search_news.png
+* app/src/main/res/drawable-mdpi/image_tabbar_button_search_news_down.png
+* app/src/main/res/drawable-mdpi/image_tabbar_button_search_news_selected.png
+* app/src/main/res/drawable-mdpi/image_tabbar_button_subscription.png
+* app/src/main/res/drawable-mdpi/image_tabbar_button_subscription_down.png
+* app/src/main/res/drawable-mdpi/image_tabbar_button_subscription_selected.png
+* app/src/main/res/drawable-mdpi/image_titlebar_background.png
+* app/src/main/res/drawable-mdpi/image_titlebar_button_next.png
+* app/src/main/res/drawable-mdpi/image_titlebar_button_next_disabled.png
+* app/src/main/res/drawable-mdpi/image_titlebar_button_next_selected.png
+* app/src/main/res/drawable-mdpi/image_titlebar_button_previous.png
+* app/src/main/res/drawable-mdpi/image_titlebar_button_previous_disabled.png
+* app/src/main/res/drawable-mdpi/image_titlebar_button_previous_selected.png
+* app/src/main/res/drawable-mdpi/image_titlebar_button_refresh.png
+* app/src/main/res/drawable-mdpi/image_titlebar_button_refresh_selected.png
+* app/src/main/res/drawable-mdpi/image_titlebar_button_subscribe.png
+* app/src/main/res/drawable-mdpi/image_titlebar_button_subscribe_selected.png
+* app/src/main/res/drawable-mdpi/image_toolbar_background.png
+* app/src/main/res/drawable-mdpi/image_toolbar_button_favorites.png
+* app/src/main/res/drawable-mdpi/image_toolbar_button_favorites_remove.png
+* app/src/main/res/drawable-mdpi/image_toolbar_button_favorites_selected.png
+* app/src/main/res/drawable-mdpi/image_toolbar_button_like.png
+* app/src/main/res/drawable-mdpi/image_toolbar_button_like_selected.png
+* app/src/main/res/drawable-mdpi/image_toolbar_button_liked.png
+* app/src/main/res/drawable-mdpi/image_toolbar_button_share.png
+* app/src/main/res/drawable-mdpi/image_toolbar_button_share_selected.png
+* app/src/main/res/drawable-mdpi/image_viewer_btn_bg_nor.9.png
+* app/src/main/res/drawable-mdpi/image_viewer_btn_bg_press.9.png
+* app/src/main/res/drawable-mdpi/image_widget_horizontal_separator.png
+* app/src/main/res/drawable-mdpi/image_widget_hot_list_separator_line.png
+* app/src/main/res/drawable-mdpi/news_reply_img_btn_background.png
+* app/src/main/res/drawable-mdpi/reply_button_normal.9.png
+* app/src/main/res/drawable-mdpi/reply_button_pressed.9.png
+* app/src/main/res/drawable-mdpi/send_input_normal.9.png
+* app/src/main/res/drawable-mdpi/send_input_pressed.9.png
+* app/src/main/res/drawable-xhdpi/
+* app/src/main/res/drawable-xhdpi/ic_action_search.png
+* app/src/main/res/drawable-xhdpi/ic_launcher.png
+* app/src/main/res/drawable/
+* app/src/main/res/drawable/begin_subsciption_selector.xml
+* app/src/main/res/drawable/btn_send_reply_selector.xml
+* app/src/main/res/drawable/btn_titlebar_refresh_selector.xml
+* app/src/main/res/drawable/btn_titlebar_subscribe_selector.xml
+* app/src/main/res/drawable/image_icon_collapse_selector.xml
+* app/src/main/res/drawable/image_icon_expand_selector.xml
+* app/src/main/res/drawable/image_tabbar_button_financial_index_selector.xml
+* app/src/main/res/drawable/image_tabbar_button_hot_news_selector.xml
+* app/src/main/res/drawable/image_tabbar_button_news_home_selector.xml
+* app/src/main/res/drawable/image_tabbar_button_search_news_selector.xml
+* app/src/main/res/drawable/image_tabbar_button_subscription_selector.xml
+* app/src/main/res/drawable/list_open_item_btn_selector.xml
+* app/src/main/res/drawable/news_comments_titlebar_btn_news_selector.xml
+* app/src/main/res/drawable/news_list_item_selector.xml
+* app/src/main/res/drawable/newsdetail_titlebar_btn_comments_selector.xml
+* app/src/main/res/drawable/newsdetail_titlebar_btn_next_selector.xml
+* app/src/main/res/drawable/newsdetail_titlebar_btn_privious_selector.xml
+* app/src/main/res/drawable/newsdetail_toolbar_btn_share_selector.xml
+* app/src/main/res/drawable/newsdetail_toolbar_favorites_selector.xml
+* app/src/main/res/drawable/newslist_item_go_detail_selector.xml
+* app/src/main/res/drawable/search_button_selector.xml
+* app/src/main/res/layout/
+* app/src/main/res/layout/add_subscription_layout.xml
+* app/src/main/res/layout/category_item_layout.xml
+* app/src/main/res/layout/comments_layout.xml
+* app/src/main/res/layout/comments_list_item_layout.xml
+* app/src/main/res/layout/financial_category_item_layout.xml
+* app/src/main/res/layout/financial_index_layout.xml
+* app/src/main/res/layout/financial_list_item_layout.xml
+* app/src/main/res/layout/hot_news_category_item_layout.xml
+* app/src/main/res/layout/hot_news_layout.xml
+* app/src/main/res/layout/hot_news_list_item_layout.xml
+* app/src/main/res/layout/hotnews_list_item_layout.xml
+* app/src/main/res/layout/loadmore_layout.xml
+* app/src/main/res/layout/maintabs.xml
+* app/src/main/res/layout/news_home_layout.xml
+* app/src/main/res/layout/news_reply_frame_layout.xml
+* app/src/main/res/layout/newsbody_layout.xml
+* app/src/main/res/layout/newsdetails_layout.xml
+* app/src/main/res/layout/newslist_item_layout.xml
+* app/src/main/res/layout/search_news_layout.xml
+* app/src/main/res/layout/softupdate_progress.xml
+* app/src/main/res/layout/sublist_item_layout.xml
+* app/src/main/res/layout/subscription_layout.xml
+* app/src/main/res/menu/
+* app/src/main/res/menu/main.xml
+* app/src/main/res/values-large/
+* app/src/main/res/values-large/dimens.xml
+* app/src/main/res/values/
+* app/src/main/res/values/array.xml
+* app/src/main/res/values/attrs.xml
+* app/src/main/res/values/colors.xml
+* app/src/main/res/values/dimens.xml
+* app/src/main/res/values/drawables.xml
+* app/src/main/res/values/ids.xml
+* app/src/main/res/values/strings.xml
+* app/src/main/res/values/styles.xml
+* app/src/main/resources/
+* app/src/main/resources/version.xml
+* build.gradle
+* gradle/
+* gradle/wrapper/
+* gradle/wrapper/gradle-wrapper.jar
+* gradle/wrapper/gradle-wrapper.properties
+* gradlew
+* gradlew.bat
+* ic_launcher-web.png
+* proguard-project.txt
+* settings.gradle
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* assets/ => app/src/main/assets
+* libs/Baidu_MobAds_SDK_3.0.jar => app/libs/Baidu_MobAds_SDK_3.0.jar
+* lint.xml => app/lint.xml
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+* src/version.xml => app/src/main/resources/version.xml
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

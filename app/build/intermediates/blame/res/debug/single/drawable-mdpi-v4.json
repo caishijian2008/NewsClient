@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_tabbar_button_news_home.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_tabbar_button_news_home.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_categorybar_right_arrow.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_categorybar_right_arrow.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_titlebar_button_next_selected.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_titlebar_button_next_selected.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_list_icon_collapse.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_list_icon_collapse.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/button_pressed.9.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/button_pressed.9.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_titlebar_button_subscribe_selected.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_titlebar_button_subscribe_selected.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_financial_index_table_title_background.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_financial_index_table_title_background.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_toolbar_button_liked.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_toolbar_button_liked.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_tabbar_button_search_news_down.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_tabbar_button_search_news_down.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/send_input_pressed.9.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/send_input_pressed.9.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_titlebar_button_next_disabled.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_titlebar_button_next_disabled.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_titlebar_button_previous.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_titlebar_button_previous.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_titlebar_button_refresh_selected.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_titlebar_button_refresh_selected.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_toolbar_button_share.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_toolbar_button_share.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/reply_button_normal.9.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/reply_button_normal.9.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_titlebar_button_previous_selected.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_titlebar_button_previous_selected.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_tabbar_button_search_news_selected.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_tabbar_button_search_news_selected.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_tabbar_button_news_home_selected.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_tabbar_button_news_home_selected.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_list_open_item.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_list_open_item.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_tabbar_button_subscription_down.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_tabbar_button_subscription_down.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_tabbar_button_hot_news_down.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_tabbar_button_hot_news_down.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_list_open_item_selected.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_list_open_item_selected.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_toolbar_button_favorites.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_toolbar_button_favorites.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_toolbar_button_like.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_toolbar_button_like.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_toolbar_button_favorites_selected.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_toolbar_button_favorites_selected.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_list_separator_line.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_list_separator_line.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_button_function_down.9.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_button_function_down.9.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_titlebar_button_previous_disabled.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_titlebar_button_previous_disabled.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_widget_horizontal_separator.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_widget_horizontal_separator.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_button_operate_small_selected.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_button_operate_small_selected.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_tabbar_button_financial_index_down.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_tabbar_button_financial_index_down.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_titlebar_button_subscribe.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_titlebar_button_subscribe.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_tabbar_button_subscription.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_tabbar_button_subscription.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_button_operate.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_button_operate.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_constom.jpg",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/ic_constom.jpg"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_toolbar_button_like_selected.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_toolbar_button_like_selected.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_button_operate_small.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_button_operate_small.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_tabbar_button_search_news.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_tabbar_button_search_news.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_titlebar_button_next.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_titlebar_button_next.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_button_operate_selected.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_button_operate_selected.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_toolbar_button_favorites_remove.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_toolbar_button_favorites_remove.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_titlebar_button_refresh.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_titlebar_button_refresh.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_list_icon_expand.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_list_icon_expand.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_tabbar_button_financial_index_selected.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_tabbar_button_financial_index_selected.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_titlebar_background.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_titlebar_background.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_tabbar_button_news_home_down.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_tabbar_button_news_home_down.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_button_operate_disabled.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_button_operate_disabled.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_tabbar_button_hot_news_selected.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_tabbar_button_hot_news_selected.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_prompt_smiley.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_prompt_smiley.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_search_search_button.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_search_search_button.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_categorybar_background.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_categorybar_background.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_viewer_btn_bg_nor.9.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_viewer_btn_bg_nor.9.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/send_input_normal.9.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/send_input_normal.9.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_subscription_welcome_background.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_subscription_welcome_background.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_search_searchbox.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_search_searchbox.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_tabbar_button_financial_index.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_tabbar_button_financial_index.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_tabbar_button_subscription_selected.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_tabbar_button_subscription_selected.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_viewer_btn_bg_press.9.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_viewer_btn_bg_press.9.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_widget_hot_list_separator_line.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_widget_hot_list_separator_line.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_toolbar_background.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_toolbar_background.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_categorybar_item_selected_background.9.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_categorybar_item_selected_background.9.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_button_function.9.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_button_function.9.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_list_selected_background.9.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_list_selected_background.9.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/button_normal.9.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/button_normal.9.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_search_search_button_selected.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_search_search_button_selected.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_toolbar_button_share_selected.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_toolbar_button_share_selected.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_button_function_selected.9.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_button_function_selected.9.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/reply_button_pressed.9.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/reply_button_pressed.9.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_tabbar_background.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_tabbar_background.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_search.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_tabbar_button_hot_news.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/image_tabbar_button_hot_news.png"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/news_reply_img_btn_background.png",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/drawable-mdpi/news_reply_img_btn_background.png"
+    }
+]

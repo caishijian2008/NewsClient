@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/layout/news_home_layout.xml",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/layout/news_home_layout.xml"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/layout/comments_list_item_layout.xml",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/layout/comments_list_item_layout.xml"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/layout/subscription_layout.xml",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/layout/subscription_layout.xml"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/layout/add_subscription_layout.xml",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/layout/add_subscription_layout.xml"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/layout/newsbody_layout.xml",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/layout/newsbody_layout.xml"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/layout/search_news_layout.xml",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/layout/search_news_layout.xml"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/layout/hot_news_list_item_layout.xml",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/layout/hot_news_list_item_layout.xml"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/layout/newsdetails_layout.xml",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/layout/newsdetails_layout.xml"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/layout/newslist_item_layout.xml",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/layout/newslist_item_layout.xml"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/layout/maintabs.xml",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/layout/maintabs.xml"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/layout/activity_search_news_details.xml",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/layout/activity_search_news_details.xml"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/layout/financial_category_item_layout.xml",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/layout/financial_category_item_layout.xml"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/layout/hotnews_list_item_layout.xml",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/layout/hotnews_list_item_layout.xml"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/layout/financial_list_item_layout.xml",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/layout/financial_list_item_layout.xml"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/layout/sublist_item_layout.xml",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/layout/sublist_item_layout.xml"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/layout/loadmore_layout.xml",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/layout/loadmore_layout.xml"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/layout/news_reply_frame_layout.xml",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/layout/news_reply_frame_layout.xml"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/layout/comments_layout.xml",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/layout/comments_layout.xml"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/layout/hot_news_layout.xml",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/layout/hot_news_layout.xml"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/layout/financial_index_layout.xml",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/layout/financial_index_layout.xml"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/layout/softupdate_progress.xml",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/layout/softupdate_progress.xml"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/layout/hot_news_category_item_layout.xml",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/layout/hot_news_category_item_layout.xml"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/layout/category_item_layout.xml",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/layout/category_item_layout.xml"
+    }
+]

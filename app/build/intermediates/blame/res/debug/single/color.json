@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/color/category_item_title_selector.xml",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/color/category_item_title_selector.xml"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/color/newslist_item_title_selector.xml",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/color/newslist_item_title_selector.xml"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/color/newslist_loadmore_btn_selector.xml",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/color/newslist_loadmore_btn_selector.xml"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/color/newslist_item_ptime_selector.xml",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/color/newslist_item_ptime_selector.xml"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/color/financial_list_item_title_selector.xml",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/color/financial_list_item_title_selector.xml"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/color/sublist_item_title_selector.xml",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/color/sublist_item_title_selector.xml"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/color/newslist_item_digest_selector.xml",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/color/newslist_item_digest_selector.xml"
+    },
+    {
+        "merged": "/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/res/merged/debug/color/newslist_item_source_selector.xml",
+        "source": "/home/caishijian/AndroidStudioProjects/NewsClient/app/src/main/res/color/newslist_item_source_selector.xml"
+    }
+]

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/caishijian/AndroidStudioProjects/NewsClient/app/libs/volley-1.0.19.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/pre-dexed/debug/volley-1.0.19_efc80da5d0aabb97585df8207bdca6f0477e8a90.jar" />
+    </item>
+    <item
+        jar="/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_5c2bc2d8448374a3b249676d12d8cd6880fb7a76.jar" />
+    </item>
+    <item
+        jar="/home/caishijian/AndroidStudioProjects/NewsClient/app/libs/okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_36cf4ec18bd19c0d9137378ad81292e4dce9db0f.jar" />
+    </item>
+    <item
+        jar="/home/caishijian/AndroidStudioProjects/NewsClient/app/libs/okio-1.8.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/pre-dexed/debug/okio-1.8.0_2c2601e8e3e677dfc27a53f31117df6c6935aca3.jar" />
+    </item>
+    <item
+        jar="/home/caishijian/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_d65af5e210fdb91a7ac17a79805258863bb43305.jar" />
+    </item>
+    <item
+        jar="/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/caishijian/AndroidStudioProjects/NewsClient/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_dbdc19269f29a226d142d21fa5e529c8e5176eb3.jar" />
+    </item>
+
+</items>
