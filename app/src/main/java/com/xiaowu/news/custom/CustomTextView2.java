@@ -57,8 +57,8 @@ public class CustomTextView2 extends LinearLayout {
             //获取自定义属性属性
             final ImageView imageView = new ImageView(mContext);
             if (imgsrc != null || imgsrc != "") {
-                int imagewidth = mTypedArray.getDimensionPixelOffset(R.styleable.customTextView_image_width, 100);
-                int imageheight = mTypedArray.getDimensionPixelOffset(R.styleable.customTextView_image_height, 100);
+                int imagewidth = mTypedArray.getDimensionPixelOffset(R.styleable.customTextView_image_width, 200);
+                int imageheight = mTypedArray.getDimensionPixelOffset(R.styleable.customTextView_image_height, 200);
                 params = new LayoutParams(imagewidth, imageheight);
                 params.gravity = Gravity.CENTER_HORIZONTAL;    //居中
                 imageView.setLayoutParams(params);
@@ -81,6 +81,7 @@ public class CustomTextView2 extends LinearLayout {
                 addView(imageView);
             } else {
                 imageView.setImageResource(R.drawable.ic_launcher);
+                imageView.setVisibility(GONE);
                 addView(imageView);
             }
             float textSize = mTypedArray.getDimension(R.styleable.customTextView_textSize, 16);
